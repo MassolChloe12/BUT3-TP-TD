@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Introduction2025</string>
+    <string name="app_name">Calcul Reduction</string>
+    <string name="prixInit">"Prix initial:"</string>
+    <string name="tauxReduction">Taux de réduction:</string>
+    <string name="economie">"Economie réalisée:"</string>
+    <string name="payer">A payer:</string>
+    <string name="btn_calculer">Calculer</string>
+    <string name="btn_annuler">Annuler</string>
+    <string name="hint_prixInit">prix avec les centimes</string>
+    <string name="hint_reduction">"% réduction (de 0 à 100)"</string>
+    <string name="hint_ResultatCalcule">"Résultat calculé"</string>
 </resources>
