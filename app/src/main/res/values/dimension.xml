@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marge_horizontale">10dip</dimen>
+    <dimen name="marge_verticale">5dip</dimen>
+    <dimen name="grande_marge">30dip</dimen>
+
+    <dimen name="taille_titre">20sp</dimen>
+
+    <dimen name="grande_taille">15sp</dimen>
+</resources>

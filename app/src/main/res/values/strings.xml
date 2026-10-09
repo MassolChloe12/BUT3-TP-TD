@@ -1,3 +1,96 @@
 <resources>
-    <string name="app_name">Introduction2025</string>
+    <string name="app_name">DepartementOccitanie</string>
+
+    <string name="titre">"Connaissez-vous les départements de l'Occitanie ?"</string>
+    <string name="libelle_habitant">" hab"</string>
+    <string name="libelle_prefecture">Préfecture</string>
+
+
+    <!-- tableau des départements de l'Occitanie -->
+    <string-array name="departements">
+        <item name="Ari">Ariège</item>
+        <item name="Aud">Aude</item>
+        <item name="Ave">Aveyron</item>
+        <item name="Gar">Gard</item>
+        <item name="HGa">Haute-Garonne</item>
+        <item name="Ger">Gers</item>
+        <item name="Her">Hérault</item>
+        <item name="Lot">Lot</item>
+        <item name="Loz">Lozère</item>
+        <item name="HPy">Haute-Pyrénées</item>
+        <item name="PyO">Pyrénées-Orientales</item>
+        <item name="Tar">Tarn</item>
+        <item name="TaG">Tarn-et-Garonne</item>
+    </string-array>
+
+    <!-- tableau des numéros des départements de l'Occitanie -->
+    <string-array name="num_dept">
+        <item name="Ari">09</item>
+        <item name="Aud">11</item>
+        <item name="Ave">12</item>
+        <item name="Gar">30</item>
+        <item name="HGa">31</item>
+        <item name="Ger">32</item>
+        <item name="Her">34</item>
+        <item name="Lot">46</item>
+        <item name="Loz">48</item>
+        <item name="HPy">65</item>
+        <item name="PyO">66</item>
+        <item name="Tar">81</item>
+        <item name="TaG">82</item>
+    </string-array>
+
+
+    <!-- tableau des préfectures de l'Occitanie -->
+    <string-array name="prefecture">
+        <item name="Ari">Pamiers</item>
+        <item name="Aud">Narbonne</item>
+        <item name="Ave">Rodez</item>
+        <item name="Gar">Nîmes</item>
+        <item name="HGa">Toulouse</item>
+        <item name="Ger">Auch</item>
+        <item name="Her">Montpellier</item>
+        <item name="Lot">Cahors</item>
+        <item name="Loz">Mende</item>
+        <item name="HPy">Tarbes</item>
+        <item name="PyO">Perpignan</item>
+        <item name="Tar">Albi</item>
+        <item name="TaG">Montauban</item>
+    </string-array>
+
+    <!-- tableau des populations des départements de l'Occitanie -->
+    <integer-array name="pop_departement">
+        <item name="Ari">153066</item>
+        <item name="Aud">372806</item>
+        <item name="Ave">279274</item>
+        <item name="Gar">745458</item>
+        <item name="HGa">1380672</item>
+        <item name="Ger">191283</item>
+        <item name="Her">1159220</item>
+        <item name="Lot">173929</item>
+        <item name="Loz">76520</item>
+        <item name="HPy">229171</item>
+        <item name="PyO">476357</item>
+        <item name="Tar">388596</item>
+        <item name="TaG">259124</item>
+    </integer-array>
+
+    <!-- tableau des populations des préfectures de l'Occitanie -->
+    <integer-array name="pop_prefecture">
+        <item name="Ari">9452</item>
+        <item name="Aud">46513</item>
+        <item name="Ave">24319</item>
+        <item name="Gar">149633</item>
+        <item name="HGa">486828</item>
+        <item name="Ger">22200</item>
+        <item name="Her">290053</item>
+        <item name="Lot">19907</item>
+        <item name="Loz">12227</item>
+        <item name="HPy">42426</item>
+        <item name="PyO">119188</item>
+        <item name="Tar">48933</item>
+        <item name="TaG">60962</item>
+    </integer-array>
+
+
 </resources>
